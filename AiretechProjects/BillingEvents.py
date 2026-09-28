@@ -89,7 +89,7 @@ CUTOVER_DATE = "07/31/2026"
 BILLING_EVENT_HEADERS = [
     'Source Name', 'Source Reference', 'Organization', '*Contract Type', '*Contract Number',
     '*Contract Line Number', '*Event Type', 'Description', 'Completion Date',
-    '*Bill Transaction Currency ',
+    '*Bill Transaction Currency ','*Bill Transaction Currency ', 'Event Amount in Bill Transaction Currency',
 ]
 
 
