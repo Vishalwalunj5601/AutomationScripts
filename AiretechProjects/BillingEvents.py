@@ -89,26 +89,7 @@ CUTOVER_DATE = "07/31/2026"
 BILLING_EVENT_HEADERS = [
     'Source Name', 'Source Reference', 'Organization', '*Contract Type', '*Contract Number',
     '*Contract Line Number', '*Event Type', 'Description', 'Completion Date',
-    '*Bill Transaction Currency ', 'Event Amount in Bill Transaction Currency',
-    'Project Number', 'Transaction Task Number', 'Hold Invoice', 'Hold Revenue',
-    'Attribute Category', 'Custom Element 1', 'Custom Element 2', 'Custom Element 3',
-    'Custom Element 4', 'Custom Element 5', 'Custom Element 6', 'Custom Element 7',
-    'Custom Element 8', 'Custom Element 9', 'Custom Element 10', 'Custom Element 11',
-    'Custom Element 12', 'Custom Element 13', 'Custom Element 14', 'Custom Element 15',
-    'Custom Element 16', 'Custom Element 17', 'Custom Element 18', 'Custom Element 19',
-    'Custom Element 20', 'Custom Element 21', 'Custom Element 22', 'Custom Element 23',
-    'Custom Element 24', 'Custom Element 25', 'Custom Element 26', 'Custom Element 27',
-    'Custom Element 28', 'Custom Element 29', 'Custom Element 30', 'Custom Number Element 1',
-    'Custom Number Element 2', 'Custom Number Element 3', 'Custom Number Element 4',
-    'Custom Number Element 5', 'Custom Number Element 6', 'Custom Number Element 7',
-    'Custom Number Element 8', 'Custom Number Element 9', 'Custom Number Element 10',
-    'Custom Date Element 1', 'Custom Date Element 2', 'Custom Date Element 3',
-    'Custom Date Element 4', 'Custom Date Element 5', 'Custom Date Element 6',
-    'Custom Date Element 7', 'Custom Date Element 8', 'Custom Date Element 9',
-    'Custom Date Element 10', 'Custom Timestamp Element 1', 'Custom Timestamp Element 2',
-    'Custom Timestamp Element 3', 'Custom Timestamp Element 4', 'Custom Timestamp Element 5',
-    'Reverse in Next Period', 'Item Based Event', 'Quantity', 'Item Number',
-    'Unit of measure', 'Unit Price', 'Prepayment Request Billing Event'
+    '*Bill Transaction Currency ',
 ]
 
 
